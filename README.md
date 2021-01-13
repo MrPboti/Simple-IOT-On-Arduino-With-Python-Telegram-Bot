@@ -1,5 +1,6 @@
 # Simple-IOT-On-Arduino-With-Python-Telegram-Bot
-Simple IOT Project On Arduino With Python Telegram Bot
+
+simplest IOT Project you can make it with an Arduino Python Telegram Bot: it turn LED on or off
 
 ## Prerequisites :
 - [pip install pyserial](https://pypi.org/project/pyserial/)
